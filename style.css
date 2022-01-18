@@ -1,0 +1,29 @@
+body {
+    margin-left: 0;
+    margin-right: 0;
+    overflow: scroll;
+}
+h1 {
+ position: sticky;
+ top: 0px;
+ background-color: lightcoral;
+ display: flex;
+ align-items: center;
+ height: 80px;
+}
+
+.A {
+    width: 100%;
+    background-color: lightsalmon;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+}
+ul {
+    list-style: none;
+    height: 26vh;
+}
+li {
+    margin: 20px;
+    text-align: left;
+}
